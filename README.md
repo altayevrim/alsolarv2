@@ -7,4 +7,5 @@ And it sends commands with HTTP Requests.
 
 ## Screenshots
 
-Will be added soon.
+![Preview 1](https://github.com/altayevrim/alsolarv2/blob/main/ss/1.jpg?raw=true)  
+Portrait Mode  
